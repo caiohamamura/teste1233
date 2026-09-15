@@ -1,6 +1,7 @@
 cachorro
 gato
 camundongo
+esquilo
 papagaio
 peixe
 cobra
