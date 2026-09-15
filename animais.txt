@@ -1,6 +1,6 @@
 cachorro
 gato
-rato
+esquilo
 papagaio
 peixe
 cobra
