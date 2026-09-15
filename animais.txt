@@ -1,6 +1,6 @@
 cachorro
 gato
 rato
-periquito
+papagaio
 peixe
 cobra
