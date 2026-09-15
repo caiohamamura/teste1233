@@ -1,6 +1,6 @@
 cachorro
 gato
-rato
+camundongo
 papagaio
 peixe
 cobra
