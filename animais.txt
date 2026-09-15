@@ -4,3 +4,5 @@ rato
 papagaio
 peixe
 cobra
+outro animal
+ser humano
