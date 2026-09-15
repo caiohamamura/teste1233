@@ -3,3 +3,4 @@ gato
 rato
 periquito
 peixe
+cobra
